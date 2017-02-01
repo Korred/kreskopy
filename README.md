@@ -1,5 +1,5 @@
 # Kreskopy
-**Kreskopy is a very simple library for making 1D/2D barcodes.**
+**Kreskopy (from the polish "kod kreskowy" - eng. barcode) is a very simple library for making 1D/2D barcodes.**
 
 _Supported barcodes:_
 
